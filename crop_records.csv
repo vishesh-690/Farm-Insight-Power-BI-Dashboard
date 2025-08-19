@@ -1,0 +1,11 @@
+crop_id,crop_name,planting_date,harvest_date,region,yield_kg
+1,Wheat,2025-11-12,2026-03-18,Punjab,3600
+2,Rice,2025-07-05,2025-11-02,"West Bengal",2900
+3,Maize,2025-06-20,2025-09-30,Karnataka,1500.5
+4,Sugarcane,2025-01-10,2025-12-15,"Uttar Pradesh",8000.2
+5,"Tur (Pigeon Pea)",2025-06-01,2025-10-20,Maharashtra,850.6
+6,Bajra,2025-06-01,2025-09-25,Rajasthan,1200.3
+7,Soybean,2025-06-15,2025-10-05,"Madhya Pradesh",1750.2
+8,Groundnut,2025-07-10,2025-11-20,Gujarat,2100.7
+9,Jowar,2025-06-20,2025-09-30,Telangana,950.4
+10,Cotton,2025-07-01,2025-11-15,"Tamil Nadu",3000.9

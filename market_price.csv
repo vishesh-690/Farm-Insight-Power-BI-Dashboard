@@ -1,0 +1,11 @@
+price_id,date,crop_name,market_name,price_per_kg
+1,2025-07-28,Wheat,"Ludhiana Market",21.4
+2,2025-07-28,Rice,"Kolkata Market",23.6
+3,2025-07-29,Maize,"Bengaluru APMC",18.5
+4,2025-07-30,Sugarcane,"Lucknow Mandi",3.2
+5,2025-08-01,Tur,"Nagpur Market",72
+6,2025-08-02,Bajra,"Jaipur Market",19.6
+7,2025-08-02,Soybean,"Indore Mandi",32.5
+8,2025-08-03,Groundnut,"Rajkot Market",45
+9,2025-08-03,Jowar,"Hyderabad Mandi",22.2
+10,2025-08-04,Cotton,"Coimbatore Market",58.4
